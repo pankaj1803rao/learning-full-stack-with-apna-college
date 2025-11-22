@@ -6,3 +6,4 @@
 <img width="1366" height="919" alt="screencapture-127-0-0-1-5500-index-html-2025-11-22-12_25_48" src="https://github.com/user-attachments/assets/4ab6a9a2-f7bb-498b-96d1-e3b16a482f82" />
 <h1>Assigement Practical task</h1>
 <img width="1366" height="633" alt="screencapture-127-0-0-1-5500-index-html-2025-11-22-12_35_50" src="https://github.com/user-attachments/assets/85886257-0658-45ab-a0e4-caec102e6e5d" />
+<img width="1366" height="633" alt="screencapture-127-0-0-1-5500-index-html-2025-11-22-12_40_40" src="https://github.com/user-attachments/assets/9cc4c4bd-90f9-4887-95de-6fc0aae6618f" />
