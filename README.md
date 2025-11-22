@@ -4,3 +4,5 @@
 <img width="690" height="614" alt="Screenshot 2025-11-22 121047" src="https://github.com/user-attachments/assets/eb011812-1977-4e52-a775-750af892a461" />
 <h1>Create a portfolio website</h1>
 <img width="1366" height="919" alt="screencapture-127-0-0-1-5500-index-html-2025-11-22-12_25_48" src="https://github.com/user-attachments/assets/4ab6a9a2-f7bb-498b-96d1-e3b16a482f82" />
+<h1>Assigement Practical task</h1>
+<img width="1366" height="633" alt="screencapture-127-0-0-1-5500-index-html-2025-11-22-12_35_50" src="https://github.com/user-attachments/assets/85886257-0658-45ab-a0e4-caec102e6e5d" />
